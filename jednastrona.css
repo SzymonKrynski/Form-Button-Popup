@@ -1,0 +1,496 @@
+body{
+    font-family: 'Oswald', sans-serif;
+}
+
+#conteiner1 {
+    margin-top: 60px;
+    font-family: 'Oswald', sans-serif;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+   /* padding-top: 40px;
+    margin-top: 100px; */
+    /* Background pattern from Toptal Subtle Patterns */
+    /*  background-image: url("wild_flowers/wild_flowers.png");  */
+    height: 650px;
+    border: 1px solid white;
+
+    
+}
+
+
+
+#logo1{
+    
+    margin-top: 100px;
+    text-align: center;
+    font-size: 40px;
+
+}
+#logo1 p {
+   
+   font-size: 30px;
+   color: rgb(207, 188, 188);
+   letter-spacing: 3px;
+   font-weight: 900;
+   margin-top: 70px;
+
+   
+}
+
+#logo1 span{
+    font-size: 40px;
+    color: rgb(131, 77, 77);
+    letter-spacing: 2px;
+    
+}
+
+#rectangle1{
+
+    margin-top: 30px;
+}
+.button1{
+    width: 210px;
+    float: left;
+    height: 30px;
+    text-align: center;
+    background-image: linear-gradient(to right,#bff0ed,#07beb5 )  ;
+ 
+   /*background-color: #07FAEE; */
+   margin-left: 120px;
+   border-radius: 5px;
+   padding-top: 10px;
+   color: white;
+   letter-spacing: 2px;
+   font-size: 12px;
+   
+   -webkit-box-shadow: 10px 15px 20px 10px rgba(9, 99, 94, 0.97);
+-moz-box-shadow: 10px 15px 20px 10px rgba(8, 151, 144, 0.97);
+box-shadow: 10px 15px 20px -1px rgba(207, 230, 228, 0.97);
+
+    
+}
+.button2{
+    width: 200px;
+    float: left;
+    height: 30px;
+    text-align: center;
+    background-image:linear-gradient(to right, rgb(161, 195, 214), #1A8CC9); 
+    background-color: #1A8CC9;
+    margin-left: 50px;
+    border-radius: 5px;
+    padding-top: 10px;
+    color: white;
+   letter-spacing: 2px;
+   font-size: 12px;
+   
+   -webkit-box-shadow: 10px 10px 20px 10px rgba(26,140,201,1);
+   -moz-box-shadow: 10px 10px 20px 10px rgb(54, 82, 97);
+   box-shadow: 10px 10px 20px -1px rgb(125, 166, 189);
+   
+
+   
+
+
+}
+.button3{
+   width: 210px;
+   float: left;
+   height: 30px;
+   text-align:center;
+   background-image:linear-gradient(to right, #a4a4d8, #2e2c77);
+   margin-left: 50px;
+   border-radius: 5px;
+   padding-top: 10px;
+   color: white;
+   letter-spacing: 2px;
+   font-size: 12px;
+   /*margin-bottom: 160px; */
+
+   -webkit-box-shadow: 10px 10px 20px 10px rgb(76, 75, 104);
+-moz-box-shadow: 10px 10px 20px 10px rgb(50, 50, 73);
+box-shadow: 10px 10px 20px -1px rgb(143, 142, 224);
+
+
+   
+
+   
+}
+
+/*-------------Tutaj wchodzi zadanie nr 3 - stylizowanie przycisków --------*/
+
+/*
+body{
+
+    font-family: 'Roboto Slab', serif;
+}
+*/
+
+#conteiner2 {
+    font-family: 'Roboto Slab', serif;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 200px;
+   /* height: 100%; */
+  /*  margin-bottom: 30px; */
+    border: 1px solid white;
+    /* Background pattern from Toptal Subtle Patterns */
+   /*  background-image: url("wild_flowers/wild_flowers.png");  */
+   height: 700px;
+   
+}
+
+#rectangle2 {
+
+    margin-left: 20px;
+    margin-top: 60px;
+    
+
+     
+}
+
+
+
+#logo2{
+    
+    margin-top: 50px;
+    text-align: center;
+
+}
+#logo2 p {
+   
+   font-size: 20px;
+   color: #A9A9A9;
+   letter-spacing: 3px;
+   font-weight: bold;
+   margin-top: 100px;
+
+   
+}
+
+#logo2 span{
+    font-size: 40px;
+    color: #000;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
+.button11{
+    width: 210px;
+    float: left;
+    height: 30px;
+    text-align: center;
+    background-image: linear-gradient(to right,#bff0ed,#07beb5 )  ;
+ 
+   /*background-color: #07FAEE; */
+   margin-left: 120px;
+   border-radius: 5px;
+   padding-top: 10px;
+   color: white;
+   letter-spacing: 2px;
+   font-size: 12px;
+   
+   -webkit-box-shadow: 10px 15px 20px 10px rgba(9, 99, 94, 0.97);
+-moz-box-shadow: 10px 15px 20px 10px rgba(8, 151, 144, 0.97);
+box-shadow: 10px 15px 20px -1px rgba(207, 230, 228, 0.97);
+
+    
+}
+.button22{
+    width: 200px;
+    float: left;
+    height: 30px;
+    text-align: center;
+    background-image:linear-gradient(to right, rgb(161, 195, 214), #1A8CC9); 
+    background-color: #1A8CC9;
+    margin-left: 50px;
+    border-radius: 5px;
+    padding-top: 10px;
+    color: white;
+   letter-spacing: 2px;
+   font-size: 12px;
+   
+   -webkit-box-shadow: 10px 10px 20px 10px rgba(26,140,201,1);
+   -moz-box-shadow: 10px 10px 20px 10px rgb(54, 82, 97);
+   box-shadow: 10px 10px 20px -1px rgb(125, 166, 189);
+   
+
+   
+
+
+}
+.button33{
+   width: 210px;
+   float: left;
+   height: 30px;
+   text-align:center;
+   background-image:linear-gradient(to right, #a4a4d8, #2e2c77);
+   margin-left: 50px;
+   border-radius: 5px;
+   padding-top: 10px;
+   color: white;
+   letter-spacing: 2px;
+   font-size: 12px;
+
+   -webkit-box-shadow: 10px 10px 20px 10px rgb(76, 75, 104);
+-moz-box-shadow: 10px 10px 20px 10px rgb(50, 50, 73);
+box-shadow: 10px 10px 20px -1px rgb(143, 142, 224);
+   
+
+   
+}
+
+
+
+.button44{
+    width: 210px;
+    float: left;
+    height: 30px;
+    text-align: center;
+    margin-top: 50px;
+    background-image:linear-gradient(to right,rgb(231, 202, 172),#ce863f);
+    margin-left: 120px;
+    border-radius: 5px;
+    padding-top: 10px;
+    color: white;
+   letter-spacing: 2px;
+   font-size: 12px;
+
+   -webkit-box-shadow: 10px 10px 20px 10px rgb(211, 175, 140);
+   -moz-box-shadow: 10px 10px 20px 10px rgba(206,134,63,1);
+   box-shadow: 10px 10px 20px 1px rgb(189, 161, 133);
+   
+}
+.button55{
+    width: 210px;
+    float: left;
+    height: 30px;
+    text-align: center;
+    margin-top: 50px;
+    background-image: linear-gradient(to right, rgb(236, 186, 189), #be565b);
+    margin-left: 50px;
+    border-radius: 5px;
+    padding-top: 10px;
+    color: white;
+   letter-spacing: 2px;
+   font-size: 12px;
+   
+   -webkit-box-shadow: 10px 10px 20px 10px rgb(211, 145, 148);
+    -moz-box-shadow: 10px 10px 20px 10px rgb(175, 128, 131);
+    box-shadow: 10px 10px 20px 1px rgb(158, 126, 128);
+   
+
+}
+.button66{
+    width: 210px;
+    float: left;
+    height: 30px;
+    text-align: center;
+    margin-top: 50px;
+    background-image: linear-gradient(to right,rgb(218, 159, 183),#c73871 );
+    margin-left: 50px;
+    border-radius: 5px;
+    padding-top: 10px;
+    color: white;
+   letter-spacing: 2px;
+   font-size: 12px;
+   
+   -webkit-box-shadow: 10px 10px 20px 10px rgb(194, 141, 162);
+   -moz-box-shadow: 10px 10px 20px 10px rgb(199, 156, 173);
+   box-shadow: 10px 10px 20px 1px rgb(167, 123, 140);
+}
+
+.photo {
+   display: inline-block; 
+    margin-top: 70px;
+    margin-left: 850px;
+   
+}
+
+/* tu wchodzi zadanie zadanie pierwsze popup */
+
+
+#conteiner3 {
+    
+    font-family: 'Oswald', sans-serif;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+   /* padding-top: 40px;
+    margin-top: 100px; */
+    /* Background pattern from Toptal Subtle Patterns */
+    /*  background-image: url("wild_flowers/wild_flowers.png");  */
+    height: 500px;
+    border: 1px solid white;
+
+    
+}
+
+#popup {
+
+    border-style: 1px solid black;
+    border-radius: 20px;
+    width: 350px;
+    height: 400px;
+    background-color: #fff;
+    margin-top: 120px;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+
+    -webkit-box-shadow: -4px 10px 52px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -4px 10px 52px 0px rgba(0,0,0,0.75);
+    box-shadow: -4px 10px 52px 0px rgba(0,0,0,0.75);
+
+}
+
+    
+
+.cookie {
+
+  font-size: 50px; 
+  font-weight: 900;
+  letter-spacing: 4px;
+  
+}
+
+.opis {
+  text-align: center;
+  margin-top: 10px;
+  color: #d3d3de;
+}
+
+.przycisk {
+
+  width: 180px;
+  height: 50px;
+  background-color: black;
+  border-radius: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 10px;
+
+}
+
+#fontello {
+  text-align: right;
+  padding: 10px;
+}
+
+p {
+  color: #f0f0f4;
+  padding: 15px;
+  letter-spacing: 2px;
+  font-size: 15px;
+
+}
+
+/* tu wchodzi zadanie formularz */
+#container2{
+    padding-top: 40px;
+    height: 700px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    
+    
+
+
+}
+
+
+#rectangle {
+    margin-top: 120px;
+    height: 400px;
+    width: 662px;
+    margin-right: auto;
+    margin-left: auto;
+  /*  border: 1px solid gray; */
+    -webkit-box-shadow: 6px 13px 90px 44px rgba(204,204,204,0.72);
+    -moz-box-shadow: 6px 13px 90px 44px rgba(204,204,204,0.72);
+    box-shadow: 6px 13px 90px 44px rgba(204,204,204,0.72);
+  
+ 
+
+}
+
+
+.square1{
+     
+   /*  margin-top: 50px; */
+     width: 200px;
+    /* margin-left: 170px; */
+     padding-left: 50px;
+     height: 398px;
+     float:left;
+     border: 1px solid gray;
+     padding-right: 10px; 
+     position: relative;
+   
+    
+}
+ 
+.square2{
+  /*  margin-top: 50px; */
+    width: 400px;
+    height: 400px;
+    float:left;
+    z-index: -1;
+   
+    
+    
+}
+.box{
+    position: absolute;
+    width: 38px;
+    height: 28px;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 10px;
+  /*  margin-left: 140px; */
+    margin-top: 20px; 
+    transition-duration: left;
+    margin-top: 10px;
+    background-color: #847553;
+    opacity: 0.7;
+    
+}
+
+.box:hover {
+        width: 180px;
+
+        
+        
+}
+
+
+p{
+    opacity: 0.7;
+    color: gray;
+}
+
+
+
+
+
+
+
+/*
+.form {
+    width: 298px;
+    border: 1px solid black;
+    float: left;
+}
+
+.photo {
+
+    width: 799px;
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    border-right: 1px solid black;
+    float: left;
+
+}  */
